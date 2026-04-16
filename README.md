@@ -17,7 +17,6 @@ You may also request a 30 day evaluation when installing / activating.
 [Download DotImage](https://www.atalasoft.com/BeginDownload/DotImageDownloadPage)
 
 
-
 ## Licensing
 This application requires a license for DotImage Document Imaging as it is making use our WinForms ThumbnailView and WorkspaceViewer in addition to DotTwain.
 
